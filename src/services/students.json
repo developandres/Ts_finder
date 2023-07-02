@@ -1,0 +1,34 @@
+[
+  { 
+    "id": 11234224,
+    "cedula": 11234224,
+    "nombre": "Juana",
+    "apellido": "Correa",
+    "correo": "juana.correa@misena.edu.co",
+    "carrera": "Electrónica"
+  },
+  {
+    "id": 12434236,
+    "cedula": 12434236,
+    "nombre": "Jaime",
+    "apellido": "García",
+    "correo": "jaime.garcia@misena.edu.co",
+    "carrera": "Administración"
+  },
+  { 
+    "id": 61236224,
+    "cedula": 61236224,
+    "nombre": "Roberta",
+    "apellido": "Mejia",
+    "correo": "roberta.mejia@misena.edu.co",
+    "carrera": "Sistemas"
+  },
+  { 
+    "id": 52433236,
+    "cedula": 52433236,
+    "nombre": "Miriam",
+    "apellido": "Zapata",
+    "correo": "miriam.zapata@misena.edu.co",
+    "carrera": "Sistemas"
+  }
+]
